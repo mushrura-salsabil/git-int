@@ -1,1 +1,1 @@
-This is new git init repo
+# This is new git init repo
